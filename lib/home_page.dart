@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_complete_guide/quiz.dart';
-import 'package:flutter_complete_guide/result.dart';
+import 'package:flutter_complete_guide/screen/quiz.dart';
+import 'package:flutter_complete_guide/screen/result.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
